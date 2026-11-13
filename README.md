@@ -21,6 +21,10 @@ The app is about 120 MB, so give the download a few minutes on the Karoo's Wi-Fi
 
 When a new version is out, Ride with GPS says **Update available** on its home screen. On the Karoo, long-press Ride with GPS in **Apps**, or open **Extensions**, and tap **Update**.
 
+## Beta testers
+
+If we've asked you to help test new versions, install from the [Beta release](../../releases/tag/beta) instead, with the same steps and its `ridewithgps-beta.apk` link. It's a separate app with DEV on its icon, and your Karoo offers each new beta as an Update. Beta builds can be rough, so if you're not testing with us, use the regular release.
+
 ## Karoo 2
 
 The Companion app can't install apps on a Karoo 2. If you're comfortable with developer tools, you can install the same file with `adb install ridewithgps.apk`.
